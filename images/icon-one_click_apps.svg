@@ -1,0 +1,28 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+	                    <g clip-path="url(#clip0)">
+	                        <g clip-path="url(#clip1)">
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M61 51.501H17.6L0.5 70.501H79.5L61 51.501Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 70.501H79.5V79.501H0.5V70.501Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M15.3 48.501H64.7L79.5 61.501H0.5L15.3 48.501Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M28 40.001L21 46.001H60L53 40.001H28Z" fill="url(#paint0_linear_2)"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M21 46.001V56.001H60V46.001H21Z" fill="url(#paint1_linear)"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M44.5 10.501V0.500977H36.5V10.501H23.5L40.5 33.501L57.5 10.501H44.5Z" fill="white" stroke="black"></path>
+	                        </g>
+	                    </g>
+	                    <defs>
+	                        <linearGradient id="paint0_linear_2" x1="21" y1="43.001" x2="60" y2="43.001" gradientUnits="userSpaceOnUse">
+	                            <stop stop-color="#1E51FA"></stop>
+	                            <stop offset="0.9941" stop-color="#008AFC"></stop>
+	                        </linearGradient>
+	                        <linearGradient id="paint1_linear" x1="21" y1="51.001" x2="60" y2="51.001" gradientUnits="userSpaceOnUse">
+	                            <stop stop-color="#2A46F0"></stop>
+	                            <stop offset="1" stop-color="#0165DF"></stop>
+	                        </linearGradient>
+	                        <clipPath id="clip0">
+	                            <rect width="80" height="80" fill="white" transform="translate(0 0.000976562)"></rect>
+	                        </clipPath>
+	                        <clipPath id="clip1">
+	                            <rect width="80" height="80" fill="white" transform="translate(0 0.000976562)"></rect>
+	                        </clipPath>
+	                    </defs>
+	                </svg>

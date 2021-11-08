@@ -1,0 +1,23 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+	                    <g clip-path="url(#clip0)">
+	                        <g clip-path="url(#clip1)">
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M59.7 19.201V62.701L78.5 79.801V0.801025L59.7 19.201Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M57.5 63.701V16.301L69.5 1.50098V78.501L57.5 63.701Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2 18.901V62.401L1.5 79.501V0.500977L20.2 18.901Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M22.5 63.701V16.301L10.5 1.50098V78.501L22.5 63.701Z" fill="white" stroke="black" stroke-linecap="round" stroke-linejoin="round"></path>
+	                            <path fill-rule="evenodd" clip-rule="evenodd" d="M53.4 43.901L39.5 26.101L26.7 43.901L36 44.001V53.901H44V43.901H53.4Z" fill="url(#paint0_linear_4)"></path>
+	                        </g>
+	                    </g>
+	                    <defs>
+	                        <linearGradient id="paint0_linear_4" x1="26.7" y1="40.001" x2="53.4" y2="40.001" gradientUnits="userSpaceOnUse">
+	                            <stop stop-color="#1E51FA"></stop>
+	                            <stop offset="0.9941" stop-color="#008AFC"></stop>
+	                        </linearGradient>
+	                        <clipPath id="clip0">
+	                            <rect width="80" height="80" fill="white" transform="translate(0 0.000976562)"></rect>
+	                        </clipPath>
+	                        <clipPath id="clip1">
+	                            <rect width="80" height="80" fill="white" transform="translate(0 0.000976562)"></rect>
+	                        </clipPath>
+	                    </defs>
+	                </svg>
